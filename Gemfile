@@ -3,4 +3,4 @@ source 'https://rubygems.org'
 #
 gemspec
 
-gem 'activesupport', '~> 7.0', '>= 7.0.4'
+spec.add_runtime_dependency "activesupport"
