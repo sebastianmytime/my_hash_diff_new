@@ -2,5 +2,3 @@
 source 'https://rubygems.org'
 #
 gemspec
-
-spec.add_runtime_dependency "activesupport"
