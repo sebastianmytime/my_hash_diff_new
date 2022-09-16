@@ -9,7 +9,9 @@ Gem::Specification.new do |s|
   s.homepage    =
     "https://rubygems.org/gems/my_hash_diff_new"
   s.license       = "MIT"
-  
+
+  spec.require_paths= ["lib"]
+
   s.add_dependency "activesupport", "~> 7.0"
 end
 
