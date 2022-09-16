@@ -1,0 +1,29 @@
+PATH
+  remote: .
+  specs:
+    my_hash_diff_new (0.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activesupport (7.0.4)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      i18n (>= 1.6, < 2)
+      minitest (>= 5.1)
+      tzinfo (~> 2.0)
+    concurrent-ruby (1.1.10)
+    i18n (1.12.0)
+      concurrent-ruby (~> 1.0)
+    minitest (5.16.3)
+    tzinfo (2.0.5)
+      concurrent-ruby (~> 1.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  activesupport (~> 7.0, >= 7.0.4)
+  my_hash_diff_new!
+
+BUNDLED WITH
+   2.3.22
