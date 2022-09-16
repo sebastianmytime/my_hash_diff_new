@@ -1,4 +1,5 @@
 # hash diff using active support
+require 'active_support'
 
 module SebastianHash
   refine Hash do
